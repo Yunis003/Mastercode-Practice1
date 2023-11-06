@@ -1,0 +1,53 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.div{
+    
+    margin: 20px auto;
+    width:700px;
+    height:600px;
+    
+}
+
+.header{
+    margin: 65px auto 25px;
+    text-align: center;
+
+}
+.texts{
+    margin:25px;
+    text-align: center;
+    font-size:32px;
+}
+.strong{
+    font-weight: bold;
+    margin: 25px;
+    text-align: center; 
+   
+}
+.smalltext{
+    padding:0 25px 25px 
+}
+
+.smalltext2{
+    padding:14px 25px;
+    font-weight: bold;
+}
+.texts2{
+    margin:0 25px;
+}
+.blue{
+    color:rgb(65, 65, 208)
+}
+.red{
+    color:rgb(199, 80, 80)
+}
+.chian{
+    color:aqua
+}
+.texts3{
+    margin: 15px 25px;
+}

@@ -1,0 +1,52 @@
+.bigdiv{
+    width:min-content;
+    height:fit-content ;
+    margin:10px auto ;
+    
+}
+.smalldiv{
+    width:700px;
+    background-color: blue;
+}
+.texts{
+    text-align: center;
+    color: aliceblue;
+    font-style: italic;
+}
+.underline{
+    text-decoration: underline;
+    font-weight: 100;
+}
+.justify{
+    text-align: justify;
+}
+.bold{
+    font-weight: bold;
+}
+.distance{
+    margin:10px 0 0
+}
+.boldline{
+    text-decoration: underline;
+    font-weight: bold;
+}
+.shortdistance{
+    margin:0 0 0;
+    font-weight: bold;
+    font-size: small;
+}
+.bolditalic{
+    font-weight: bold;
+    font-style: italic;
+}
+.normal{
+    font-weight: 100;
+}
+.background{
+    background-color:yellow;
+}
+.boldlinered{
+    font-weight: bold;
+    text-decoration: underline;
+    color:red
+}
